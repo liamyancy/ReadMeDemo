@@ -6,7 +6,7 @@ This is a Node-based build that explains the last 15 years (or so) of the Marvel
 
 
 ### Getting Started
-This is a basic HTML / CSS / JavaScript build. If you don't know whatany of these are, start here: www.mozilla.com
+This is a basic HTML / CSS / JavaScript build. If you don't know whatany of these are, start here: [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn)
 
 Clone this to the location of your choice, open in your favourite editor and hack away!
 
@@ -14,7 +14,10 @@ Clone this to the location of your choice, open in your favourite editor and hac
 Just an editor and Git!
 
 ## Authors
-Team memebers go here
+1. Liam Yancy - Front End Dev
+2. Author 2 - Back End Dev
+3. Author 3 - Video/Motion
+4. Author 4 - Design
 
 ## Liscence
 This project is liscenced under the MIT liscence.
